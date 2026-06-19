@@ -7,10 +7,10 @@ Welcome to my personal study repository for the **Microsoft SC-900** certificati
 
 | Domain | Weight | Progress | Notes Link |
 | :--- | :---: | :---: | :--- |
-| **Domain 1:** Security, Compliance, and Identity Concepts | 10–15% | ⬜ 0% | [View Domain 1 Notes](./domain-1-sci-concepts/) |
-| **Domain 2:** Microsoft Entra Capabilities | 25–30% | ⬜ 0% | [View Domain 2 Notes](./domain-2-entra-capabilities/) |
-| **Domain 3:** Microsoft Security Solutions | 35–40% | ⬜ 0% | [View Domain 3 Notes](./domain-3-security-solutions/) |
-| **Domain 4:** Microsoft Compliance Solutions | 20–25% | ⬜ 0% | [View Domain 4 Notes](./domain-4-compliance-solutions/) |
+| **Domain 1:** Security, Compliance, and Identity Concepts | 10–15% | ⬜ 0% |
+| **Domain 2:** Microsoft Entra Capabilities | 25–30% | ⬜ 0% |
+| **Domain 3:** Microsoft Security Solutions | 35–40% | ⬜ 0% |
+| **Domain 4:** Microsoft Compliance Solutions | 20–25% | ⬜ 0% |
 
 ---
 
