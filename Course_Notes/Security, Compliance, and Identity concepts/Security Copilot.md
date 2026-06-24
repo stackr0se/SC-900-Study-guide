@@ -1,7 +1,7 @@
 # What is Microsoft Copilot?
 
 An AI powered, cloud-bases security tool that enables analysts to respond to threats quickly.
-- Incident summarization: Extract complex security alerts into concise actional summaries.
+- Incident summarization: Extract and sumarizes complex security alerts.
 - Impact analysis: Assess the potential impact of security incidents to enable quicker response times and streamlined decision making.
 - Reverse engineering of scripts: Analyze complex command lin escripts and translate them into natural lanuage with clear explanations of actions.
 - Guided responses: Actionable step-by-step guidance for incident response, including directions for triage, investigation, containment, and remediation.
